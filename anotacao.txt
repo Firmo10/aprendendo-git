@@ -1,0 +1,15 @@
+Hierarquia de pastar E21
+
+Firmo
+  dev
+
+
+----------- COMANDOS BASICOS GIT E BASH
+como navegar entre pastas dentro do gitbash 
+   **entrar na pasta
+        cd /c/firmo/dev
+   ** voltar um nivel
+       cd ..
+
+--------- VER CONTEUDO DA PASTA
+   *ls
