@@ -13,3 +13,13 @@ como navegar entre pastas dentro do gitbash
 
 --------- VER CONTEUDO DA PASTA
    *ls
+
+
+-----------------------------------------------------------------------------
+passo a passo para enviar um commit para o repositório com comandos.
+
+git status
+git add 'anotacao.txt'
+git status
+git commit -m 'arquivo de anotacao'
+git push
