@@ -1,1 +1,1 @@
-alert("vendo notbook por 50 pila")
+alert("vendo notbook a 50 pila");
